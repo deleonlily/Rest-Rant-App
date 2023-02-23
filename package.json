@@ -1,0 +1,23 @@
+{
+  "name": "rest-rant-project-pt1",
+  "version": "1.0.0",
+  "description": "This is the first step in creating our fully featured Rest Rant app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deleonlily/Rest-Rant-Project-Pt1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deleonlily/Rest-Rant-Project-Pt1/issues"
+  },
+  "homepage": "https://github.com/deleonlily/Rest-Rant-Project-Pt1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
