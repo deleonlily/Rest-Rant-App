@@ -10,6 +10,8 @@ This is the first step in creating our fully featured Rest Rant app
 ---
 
 1. As a developer, I need to request data from the server about a specific place so I can populate the places detail page
+2. As a user, I need a place to view the specific detail of one of my pages on a new JSX page, so I can use the app
+3. As a user, I need to edit a place using a new place editing form page, so I can change the data for one of my existing places
 
 ---
 
@@ -26,3 +28,13 @@ This is the first step in creating our fully featured Rest Rant app
 |POST | /places/:id/rant | Create a rant(comment) about a particular place |
 | DELETE | /places/:id/rant/:rantId | Delete a rant(comment) about a particular place |
 | GET | * | 404 page(matches any route not defined above)
+
+---
+
+| Name | City | State | Cuisine |
+| ---- | ---- | ----- | ------- |
+| Ni Asian | Raleigh | NC | Japanese |
+|| Raleigh | NC ||
+|| Raleigh | NC ||
+|| Raleigh | NC ||
+|| Raleigh | NC ||
