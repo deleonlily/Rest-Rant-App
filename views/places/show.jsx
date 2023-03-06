@@ -6,6 +6,10 @@ function show (data) {
         <Def>
           <main>
             <h1>{ data.place.name }</h1>
+            <div>
+                <a href="" className="btn btn-warning">Edit
+                </a>
+            </div>
           </main>
         </Def>
     )
